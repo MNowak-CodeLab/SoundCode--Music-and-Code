@@ -1,2 +1,2 @@
 # SoundCode--Music-and-Code
-Music text generator - Leaening Coding with Music. 
+Music text generator - Learning Coding with Music. 
